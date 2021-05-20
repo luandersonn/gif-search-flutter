@@ -8,7 +8,6 @@ Learning Flutter in practice - Challenge 2: a gif search app
 - Using GridView
 - Images
 - Web request
-- Navigation
 - Deserialization (JSON)
 
 ![Giphy client screenshot - Home Page](screenshots/screenshot1.png)
